@@ -1,4 +1,5 @@
 # Projeto para criar o meu portfolio pessoal
+# segue link para abrir o Portfolio (https://portfolio-vinicius-alonso.streamlit.app/)
 
 import streamlit as st
 
